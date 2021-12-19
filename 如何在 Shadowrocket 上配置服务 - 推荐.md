@@ -1,7 +1,7 @@
 
 # 1. 概述
 
-Shadowrocket（ 请注意应用名称，App Store非常多盗版，俗称“ 小火箭 ” ）
+Shadowrocket（ 请注意应用名称，App Store盗版非常多，俗称“ 小火箭 ” ）
 完整支持本站订阅服务。
 
 由于境内地区 App Store 禁止代理应用因此已被下架，当前需要在访问境外 App Store 获取
